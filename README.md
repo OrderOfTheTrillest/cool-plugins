@@ -56,6 +56,7 @@ Bitcrushers
 -----------
 
 * [Tritik Krush](https://www.tritik.com/product/krush/)
+* [Xfer 8-Bit Shaper](https://xferrecords.com/freeware)
 
 Glitch/Buffer/Stutter Effects
 -----------------------------
@@ -80,7 +81,7 @@ Guitar Pedals
 * [Doom Plugs Bratwurst Fuzz](https://guitarandbassplugins.com/doomplugs/)
 * [Analog Obsession PEDALz](https://www.patreon.com/posts/pedalz-54136573)
 
-Granular Effects
+Granular/Pitch/Time Effects
 ----------------
 
 * [PaulXStretch](https://sonosaurus.com/paulxstretch/)
