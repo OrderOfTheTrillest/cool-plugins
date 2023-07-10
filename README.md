@@ -1,1 +1,1 @@
-# cool-plugins
+# Plugins
