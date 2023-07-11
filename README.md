@@ -49,7 +49,7 @@ Chorus/Flanger/Phaser/Mod Effects
 Distortions
 -----------
 
-* [Audio Damage Grind](https://www.audiodamage.com/pages/free-and-legacy) - direct download, no signup
+* [Audio Damage Grind](https://www.audiodamage.com/pages/free-and-legacy) - wild waveshaping distortion - direct download, no signup
 * [Noise Engineering Ruina](https://noiseengineering.us/products/the-freequel-bundle-sinc-vereor-virt-vereor-ruina?title=default%2520title) - product manager download, account required
 
 Bitcrushers
@@ -61,26 +61,25 @@ Bitcrushers
 Glitch/Buffer/Stutter Effects
 -----------------------------
 
-* [DestroyFX Buffer Override](http://destroyfx.org/) - direct download, no signup
+* [DestroyFX Buffer Override](http://destroyfx.org/) -  - direct download, no signup
 * [Audio Damage Automaton](https://www.audiodamage.com/pages/free-and-legacy) - direct download, no signup
-* [Glitchmachines Fracture](https://glitchmachines.com/products/fracture/) - requires free checkout process to be completed
-* [Soundhack ++flipper](https://www.soundhack.com/freeware/) - direct download, no signup
+* [Glitchmachines Fracture](https://glitchmachines.com/products/fracture/) -  - requires free checkout process to be completed
+* [Soundhack ++flipper](https://www.soundhack.com/freeware/) - R.I.P. Warnie - direct download, no signup
 
 Guitar/Bass Amp Sims
 --------------------
 
-* [Ignite Amps SHB-1](https://www.igniteamps.com/#shb-1) - direct download, no signup
-* [Neural Amp Modeler (NAM)](https://www.neuralampmodeler.com/) - direct download, no signup
+* [Ignite Amps SHB-1](https://www.igniteamps.com/#shb-1) - pretty high gain, no built in cab sim. Sounds pretty good in general to me, great for a freebie. I use it over lots of paid alternatives - direct download, no signup
+* [Neural Amp Modeler (NAM)](https://www.neuralampmodeler.com/) - loads amp model files. Model files can be created or downloaded from various places like [https://github.com/pelennor2170/NAM_models] - direct download, no signup, open source
 
 Guitar Pedals
 -------------
 
-* [Mercuriall WS-1 Chorus](https://mercuriall.com/cms/details_freestuff) - direct download, no signup
-* [Mercuriall TSC](https://mercuriall.com/cms/details_freestuff) - direct download, no signup
-* [Ignite Amps Pro F.E.T.](https://www.igniteamps.com/#profet) - direct download, no signup
-* [Doom Plugs Bratwurst Fuzz](https://guitarandbassplugins.com/doomplugs/) - direct download, no signup
-* [Analog Obsession PEDALz](https://www.patreon.com/posts/pedalz-54136573) - direct download, no signup
-* [Musical Entropy The Great Escape](https://www.musicalentropy.com/TheGreatEscape.html) - direct download, no signup
+* [Mercuriall TSC](https://mercuriall.com/cms/details_freestuff) - one of the better tubescreamer plugins I've tried, though I'm not usually a big fan of the tubescreamer sound. Works well as a boost with low gain and high volume - direct download, no signup
+* [Ignite Amps Pro F.E.T.](https://www.igniteamps.com/#profet) - harsh high gain distortion, sounds like a swarm of razors - direct download, no signup
+* [Doom Plugs Bratwurst Fuzz](https://guitarandbassplugins.com/doomplugs/) - decent fuzz better than most fuzz emulations - direct download, no signup
+* [Analog Obsession PEDALz](https://www.patreon.com/posts/pedalz-54136573) - a bunch of gross distortion units in a single gross unit for a whole bunch of gross distortion - direct download, no signup
+* [Musical Entropy The Great Escape](https://www.musicalentropy.com/TheGreatEscape.html) - really nice tremelo pedal plugin - direct download, no signup
 
 Granular/Pitch/Time Effects
 ----------------
