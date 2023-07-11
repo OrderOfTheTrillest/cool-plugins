@@ -69,7 +69,7 @@ Glitch/Buffer/Stutter Effects
 Guitar/Bass Amp Sims
 --------------------
 
-* [Ignite Amps SHB-1](https://www.igniteamps.com/#shb-1) - pretty high gain, no built in cab sim. Sounds pretty good in general to me, great for a freebie. I prefer it over lots of paid alternatives - direct download, no signup
+* [Ignite Amps SHB-1](https://www.igniteamps.com/#shb-1) - bass amp sim, pretty high gain, no built in cab sim. Sounds pretty good in general to me, great for a freebie. I prefer it over lots of paid alternatives - direct download, no signup
 * [Neural Amp Modeler (NAM)](https://www.neuralampmodeler.com/) - loads amp model files. Model files can be created or downloaded from various places like [https://github.com/pelennor2170/NAM_models], quality varies from model to model but some are excellent. Can be a little resource heavy - direct download, no signup, open source
 
 Guitar Pedals
