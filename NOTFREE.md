@@ -74,30 +74,26 @@ Guitar/Bass Amp Sims
 --------------------
 
 * [Mercuriall SS-11X](https://www.igniteamps.com/#shb-1) - shouldn't cost so little given how good it sounds, also impressively low resource use - direct downloads, activations are non-transferable
-* [NeuralDSP - all of them](https://neuraldsp.com/plugins) - I love Archetype Abassi, Rabea and Fortin NTS personally. Can be resource intense - direct downloads, ilok required
-
-Cabinet/IR Loader Plugins
--------------------------
-
-* [Two Notes Torpedo Wall Of Sound](https://www.two-notes.com/en/torpedo-series/torpedo-wall-of-sound/) - technically free? You can load your own IR files, but it shines with some Two Notes IRs. Simpler convolution/IR plugins are probably better for loading your own files.
+* [NeuralDSP - all of them](https://neuraldsp.com/plugins) - I love Archetype Abassi, Rabea and Fortin NTS personally. Abassi I think has the nicest clean amp sim I've used. Most include various cab and pedal sims, and some have pretty wild features. Pedal sims are the best I've heard. Cab sims are well rounded and you can load your own IRs. Some can be very resource intense and they are pretty large, though not Acustica large - direct downloads, ilok required
+* [Acustica Graphite](https://www.acustica-audio.com/shop/products/GRAPHITE) - Licensed model of GR Bass GR ONE series amps and AT 212 speaker cabinet. Personally my favourite bass amp plugin. Resource heavy, as per usual with Acustica - product manager download
 
 Granular/Pitch/Time Effects
 ----------------
 
 * [Unfiltered Audio Silo](https://www.unfilteredaudio.com/products/silo) - interesting and very capable granular effects - product manager, direct download available
-* [Soundtoys Little AlterBoy](https://www.soundtoys.com/product/little-alterboy/) - great sounding pitch shifter/vocoder style effect with a nice drive effect - direct/bundle download, ilok required
+* [Soundtoys Little AlterBoy](https://www.soundtoys.com/product/little-alterboy/) - great sounding pitch shifter/vocoder style effect with a nice drive - direct/bundle download, ilok required
 
 Saturation Effects
 ------------------
 
 * [Vertigo VSM-3](https://www.plugin-alliance.com/en/products/vertigo_vsm-3.html) - licensed model by brainworx, nice dual saturation unit - product manager, direct download available
-* [Soundtoys Decapitator](https://www.soundtoys.com/product/decapitator/) - very flexible saturation/distortion unit - direct/bundle download, ilok required
+* [Soundtoys Decapitator](https://www.soundtoys.com/product/decapitator/) - very flexible saturation/distortion unit. Covers a surprising amount of ground - direct/bundle download, ilok required
 
-Lo-fi/Tape Effects
+Lofi/Tape Effects
 -------------
 
-* [XLN RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) - great sounding lo-fi multi-effects - product manager download
-* [Acustica Taupe](https://www.acustica-audio.com/shop/products/TAUPE) - saturation models of 40 tape machines, plus excellent eq, compressor and channel strip. Fairly resource heavy but not too bad for Acustica - product manager download
+* [XLN RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) - great sounding lo-fi multi-effects. Can sound like velcro on a bad gramophone or a broken atari - product manager download
+* [Acustica Taupe](https://www.acustica-audio.com/shop/products/TAUPE) - saturation models from 40 tape machines, plus excellent eq, compressor and channel strip. I particularly like the compressor. Not really lofi but definitely tape. Fairly resource heavy but not too bad for Acustica. Very large - product manager download
 
 Multi-effects
 -------------
@@ -109,9 +105,13 @@ Multi-effects
 Synths
 ------
 
-Probably obvious but I love modular synths. Resource usage for all of these listed depends on amount and type of modules used. Softube Modular is generally the most resource heavy.
+Probably obvious but I love modular synths. Resource usage for all of these listed depends on amount and type of modules used. Softube Modular is generally the hungriest, but you can max out your CPU with all of them if you try hard enough.
 
 * [VCV Rack 2 Pro](https://vcvrack.com/) - vast Eurorack environment, too many possibilities to summarise, free standalone version is available, pro version includes vst/vst3 plugins and some additional vcv modules - direct download
 * [Softube Modular](https://www.softube.com/modular) - less expansive but usually better sounding than vcv rack Eurorack simulator, resource heavy, less modules than vcv = less flexible, but still plenty to offer on top of an amazing sound engine - product manager download, ilok required
-* [KiloHearts Phase Plant](https://kilohearts.com/products/phase_plant) - fantastic modular synth with huge capabilities, sound engine maybe just not quite as nice as Softube/Arturia/u-He/Synapse, but does everything pretty well - product manager download
-* [Native Instruments Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - fun dsp environment with a quality sound engine, like max/pure data/etc but pretty, huge learning curve and I'm still a noob, but even noobs can make cool things here. Blocks are great too - product manager download
+* [KiloHearts Phase Plant](https://kilohearts.com/products/phase_plant) - fantastic modular synth with huge capabilities, sound engine maybe just not quite as nice as Softube/Arturia/u-He/Synapse, but does everything pretty well (apart from microtuning) - product manager download
+* [Native Instruments Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - fun dsp environment with a quality sound engine, like max/pure data/etc but pretty, huge learning curve and I'm still a noob, but unlike me in max even noobs can make cool things here. Blocks are great too - product manager download
+
+Because I love making lists and know that modular is not everyones cup of fish, here are some of the finest softsynths that you can use straight out of the box:
+
+[Xfer Serum](https://xferrecords.com/products/serum/), [Softube Model XX synths](https://www.softube.com/products/synths-and-keys), [Synapse Audio Dune 3](https://www.synapse-audio.com/dune3.html), [pretty much all u-He synths](https://u-he.com/products/#synths). I like [Pigments and some of the Arturia modeled synths](https://www.arturia.com/products#software-instruments,software-instruments-effects) but prefer others.
