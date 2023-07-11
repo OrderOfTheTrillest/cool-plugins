@@ -6,19 +6,19 @@ Free plugins what is good IMO
 Compressors/limiters/dynamics
 -----------------------------
 
-* [Audio Damage Rough Rider](https://www.audiodamage.com/pages/free-and-legacy) - direct download, no signup
+* [Audio Damage Rough Rider](https://www.audiodamage.com/pages/free-and-legacy) - decent and capable compressor, a good though unessential alternative to DAW factory compressors - direct download, no signup
 * [Tokyo Dawn Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - direct download, no signup
 * [Tokyo Dawn Molotok](https://www.tokyodawn.net/tdr-molotok/) - direct download, no signup
-* [Vladg Limiter No. 6](https://www.tokyodawn.net/vladg-limiter-n6/) - direct download, no signup
-* [Klanghelm MJUC jr.](https://klanghelm.com/contents/products/MJUCjr.php) - direct download, no signup
+* [Vladg Limiter No. 6](https://www.tokyodawn.net/vladg-limiter-n6/) - feature rich limiter, old but still holds up well - direct download, no signup
+* [Klanghelm MJUC jr.](https://klanghelm.com/contents/products/MJUCjr.php) - free version of MJUC compressor with limited features but same sound engine - direct download, no signup
 * [Acustica Tan](https://www.acustica-audio.com/shop/products/TAN) - no frills, nice sounding compressor. Modeled from one band of an IGS Audio Multicore Compressor - product manager download, account required
 * [Xfer OTT](https://xferrecords.com/freeware) - pretty legendary free plugin, good sound quality - direct download, no signup
 
 Equalisers
 ----------
 
-* [Tokyo Dawn Nova](https://www.tokyodawn.net/tdr-nova/) - dynamic EQ, ludicrously good for a free plugin, includes sidechain in - direct download, no signup
-* [Tokyo Dawn SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/) - direct download, no signup
+* [Tokyo Dawn Nova](https://www.tokyodawn.net/tdr-nova/) - transparemt 4 band dynamic EQ, ludicrously good for a free plugin, includes sidechain in and wide band compression. Free version includes all the essential functionality - direct download, no signup
+* [Tokyo Dawn SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/) - very nice sounding 3 band EQ, significantly slimmed down from paid versions - direct download, no signup
 * [Acustica Coffee The Pun](https://www.acustica-audio.com/shop/products/COFFEEFREE) - Pultec style low/high EQ, sounds excellent but is pretty large - product manager download, account required
 * [Acustica Coral Baxter](https://www.acustica-audio.com/shop/products/CORALBAXEQ) - baxandall eq, modeled from Dangerous Music Bax EQ. Large and more resource heavy than other bax EQs. - product manager download, account required
 * [Sonimus SonEQ](https://sonimus.com/products/soneq) - email required, installer links sent by email
