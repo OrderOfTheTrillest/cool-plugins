@@ -3,7 +3,7 @@ Plugins
 
 __NOT FREE__ plugins what is good IMO. Assume an account is required for all.
 
-__NOTE__ processors that come with DAWs are often at least fine. I own most of these listed, otherwise using/used demos and I will own them eventually.
+__NOTE__ processors that come with DAWs are often at least fine. I own most of these listed, otherwise using/used demos that have impressed me and I will own them eventually.
 
 Compressors/limiters/dynamics
 -----------------------------
