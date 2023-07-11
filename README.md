@@ -75,6 +75,8 @@ Guitar/Bass Amp Sims
 Guitar Pedals
 -------------
 
+__Note/Rant__ personally I feel like pedal sims are generally still less realistic than most other types of hardware modeled plugins. I think Neural Amp Modeler can do pedals, and from the little I think I understand about NAM's engine, this is where I'd say the most realistic free pedal sounds will live.
+
 * [Mercuriall TSC](https://mercuriall.com/cms/details_freestuff) - one of the better tubescreamer plugins I've tried - direct download, no signup
 * [Ignite Amps Pro F.E.T.](https://www.igniteamps.com/#profet) - harsh high gain distortion, sounds like a swarm of razors - direct download, no signup
 * [Doom Plugs Bratwurst Fuzz](https://guitarandbassplugins.com/doomplugs/) - decent fuzz better than most fuzz emulations - direct download, no signup
@@ -97,7 +99,7 @@ Saturation Effects
 Synths
 ------
 
-* [Surge XT](https://surge-synthesizer.github.io/index.html) - a powerful semi-modular synth with a ton of features, xt version improves on the original in just about every way - direct download, no signup
+* [Surge XT](https://surge-synthesizer.github.io/index.html) - a powerful semi-modular synth with a ton of features, xt version improves on the original in just about every way. Sounds pretty good to me but not top shelf. - direct download, no signup
 * [discoDSP OB-Xd](https://www.discodsp.com/obxd/) - very decent sounding Oberheim-inspired synth, large feature set, a king's ransom worth of presets - direct download, no signup, has a Buy link that can be ignored (unless you want to support the devs, which is noble)
 
 __Special mention__ for:
