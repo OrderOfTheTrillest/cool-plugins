@@ -35,7 +35,7 @@ Delays
 
 * [ValhallaDSP Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) - massive delay, great for ambient washes - direct download, no signup
 * [ValhallaDSP FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) - nifty frequency/pitch shifting delay - direct download, no signup
-* [Soundhack ++pitchdelay](https://www.soundhack.com/freeware/) - fun pitch shifting delay - direct download, no signup
+* [Soundhack ++pitchdelay](https://www.soundhack.com/freeware/) - fun pitch shifting delay - bundle/direct download, no signup
 * [Audio Damage Dubstation](https://www.audiodamage.com/pages/free-and-legacy) - crunchy pedal style delay - direct download, no signup
 * [Inear Display BowEcho](https://www.ineardisplay.com/plugins/legacy/) - Glitchy delay. Legacy product so might not work for you but is rad if it does. - direct download, no signup, requires activation with provided serial
 * [Glitchmachines Hysteresis](https://glitchmachines.com/products/hysteresis/) - requires free checkout process to be completed
@@ -64,12 +64,12 @@ Glitch/Buffer/Stutter Effects
 * [DestroyFX Buffer Override](http://destroyfx.org/) - good buffer effect with decent modulation and a great user interface. Old but updated recently enough - direct download, no signup
 * [Audio Damage Automaton](https://www.audiodamage.com/pages/free-and-legacy) - weird sequenced grid glitch effects. I'm not entirely sure how to use it - direct download, no signup
 * [Glitchmachines Fracture](https://glitchmachines.com/products/fracture/) - less friendly buffer effect than buffer override, but with handy additions like delay and a filter - requires free checkout process to be completed
-* [Soundhack ++flipper](https://www.soundhack.com/freeware/) - R.I.P. Warnie - direct download, no signup
+* [Soundhack ++flipper](https://www.soundhack.com/freeware/) - R.I.P. Warnie - bundle/direct download, no signup
 
 Guitar/Bass Amp Sims
 --------------------
 
-* [Ignite Amps SHB-1](https://www.igniteamps.com/#shb-1) - pretty high gain, no built in cab sim. Sounds pretty good in general to me, great for a freebie. I use it over lots of paid alternatives - direct download, no signup
+* [Ignite Amps SHB-1](https://www.igniteamps.com/#shb-1) - pretty high gain, no built in cab sim. Sounds pretty good in general to me, great for a freebie. I prefer it over lots of paid alternatives - direct download, no signup
 * [Neural Amp Modeler (NAM)](https://www.neuralampmodeler.com/) - loads amp model files. Model files can be created or downloaded from various places like [https://github.com/pelennor2170/NAM_models], quality varies from model to model but some are excellent. Can be a little resource heavy - direct download, no signup, open source
 
 Guitar Pedals
@@ -85,7 +85,7 @@ Granular/Pitch/Time Effects
 ----------------
 
 * [PaulXStretch](https://sonosaurus.com/paulxstretch/) - fun FFT stretch effect with some nifty extra effects. Not an easy plugin to use but great for making ambience - direct download, no signup
-* [Soundhack ++bubbler](https://www.soundhack.com/freeware/) - direct download, no signup
+* [Soundhack ++bubbler](https://www.soundhack.com/freeware/) - bundle/direct download, no signup
 
 Saturation Effects
 ------------------
