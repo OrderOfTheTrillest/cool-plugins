@@ -81,6 +81,7 @@ Granular/Pitch/Time Effects
 ----------------
 
 * [Unfiltered Audio Silo](https://www.unfilteredaudio.com/products/silo) - interesting and very capable granular effects - product manager, direct download available
+* [Output Portal](https://output.com/products/portal) - I've only demoed it but it seems to cover more ground than Silo. Similarly interesting interface to Output Thermal. Sounded great to me - product manager, direct download available
 * [Soundtoys Little AlterBoy](https://www.soundtoys.com/product/little-alterboy/) - great sounding pitch shifter/vocoder style effect with a nice drive - direct/bundle download, ilok required
 
 Saturation Effects
@@ -92,7 +93,7 @@ Saturation Effects
 Lofi/Tape Effects
 -------------
 
-* [XLN RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) - great sounding lo-fi multi-effects. Can sound like velcro on a bad gramophone or a broken atari - product manager download
+* [XLN RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) - great sounding lo-fi multi-effects. Can sound like velcro on a bad gramophone or a broken atari. Good as a subtle or full on effect - product manager download
 * [Acustica Taupe](https://www.acustica-audio.com/shop/products/TAUPE) - saturation models from 40 tape machines, plus excellent eq, compressor and channel strip. I particularly like the compressor. Not really lofi but definitely tape. Fairly resource heavy but not too bad for Acustica. Very large - product manager download
 
 Multi-effects
@@ -101,17 +102,18 @@ Multi-effects
 * [Unfiltered Audio BYOME](https://www.unfilteredaudio.com/collections/plug-ins/products/byome) - very capable multi-effect with excellent modulation, presets can also be used by TRIAD and LION. Can get resource heavy with lots of modules but is generally good in this area - product manager, direct download available
 * [Cableguys ShaperBox 3](https://www.cableguys.com/shaperbox.html) - high quality modulated effects, can be resource heavy - direct download
 * [Devious Machines Infiltrator 2](https://deviousmachines.com/product/infiltrator/) - like BYOME but sounds better to me, maybe more focus on sequences. I have only demoed this but it impressed me a lot - product manager/direct download
+* [VCV Rack Pro Effect Plugin](https://vcvrack.com/) - technically a Eurorack simulator. Modular nature and huge module selection make it a very powerful effect. Routing audio has some minor caveats but makes sense once you figure it out. Free version doesn't include plugins, but if you can route audio between applications it works just as well. Softube Modular acts similarly as an effect but has significantly less modules available - direct download
 
 Synths
 ------
 
-Probably obvious but I love modular synths. Resource usage for all of these listed depends on amount and type of modules used. Softube Modular is generally the hungriest, but you can max out your CPU with all of them if you try hard enough.
+Probably obvious from the list below but I love modular synths. Resource usage for all of these listed depends on amount and type of modules used. Softube Modular is generally the hungriest, but you can max out your CPU with all of them if you try hard enough.
 
 * [VCV Rack 2 Pro](https://vcvrack.com/) - vast Eurorack environment, too many possibilities to summarise, free standalone version is available, pro version includes vst/vst3 plugins and some additional vcv modules - direct download
 * [Softube Modular](https://www.softube.com/modular) - less expansive but usually better sounding than vcv rack Eurorack simulator, resource heavy, less modules than vcv = less flexible, but still plenty to offer on top of an amazing sound engine - product manager download, ilok required
 * [KiloHearts Phase Plant](https://kilohearts.com/products/phase_plant) - fantastic modular synth with huge capabilities, sound engine maybe just not quite as nice as Softube/Arturia/u-He/Synapse, but does everything pretty well (apart from microtuning) - product manager download
-* [Native Instruments Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - fun dsp environment with a quality sound engine, like max/pure data/etc but pretty, huge learning curve and I'm still a noob, but unlike me in max even noobs can make cool things here. Blocks are great too - product manager download
+* [Native Instruments Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - fun dsp environment with a quality sound engine, like max/pure data/etc but pretty, huge learning curve and I'm still a noob, but unlike in max I can still can make cool things here. Blocks are great too - product manager download
 
 Because I love making lists and know that modular is not everyones cup of fish, here are some of the finest softsynths that you can use straight out of the box:
 
-[Xfer Serum](https://xferrecords.com/products/serum/), [Softube Model XX synths](https://www.softube.com/products/synths-and-keys), [Synapse Audio Dune 3](https://www.synapse-audio.com/dune3.html), [pretty much all u-He synths](https://u-he.com/products/#synths). I like [Pigments and some of the Arturia modeled synths](https://www.arturia.com/products#software-instruments,software-instruments-effects) but prefer others.
+[Xfer Serum](https://xferrecords.com/products/serum/), [Softube Model XX synths](https://www.softube.com/products/synths-and-keys), [Synapse Audio Dune 3](https://www.synapse-audio.com/dune3.html), pretty much all [u-He synths](https://u-he.com/products/#synths). I like Pigments and some of the [Arturia modeled synths](https://www.arturia.com/products#software-instruments,software-instruments-effects) but usually prefer others.
